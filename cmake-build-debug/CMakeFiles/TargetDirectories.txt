@@ -1,0 +1,3 @@
+C:/Users/Likva32/Desktop/projects/C/compiler/cmake-build-debug/CMakeFiles/compiler.dir
+C:/Users/Likva32/Desktop/projects/C/compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Likva32/Desktop/projects/C/compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

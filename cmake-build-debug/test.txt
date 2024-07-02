@@ -1,0 +1,16 @@
+
+func func1 ( var : shalem ) {
+write 2 <3
+declare var2 : shalem = 3 <3
+write var2 <3
+}
+
+<3
+if ( 1 shave 1 ) {
+write 1 <3
+}
+<3
+
+call func1 ( 6 + 2 ) <3
+
+write ( ( 2 + 5 ) * 2 ) <3
